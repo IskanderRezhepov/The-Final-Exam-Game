@@ -1,0 +1,20 @@
+THE FINAL EXAM: HUMANITY VS AI
+==============================
+
+Easiest way: play online
+  https://claude.ai/artifact/95E9xgEhrxdmAToYn5qnhL
+
+Play from this zip
+  Browsers block games opened straight from a file (double-clicking
+  index.html shows a black screen), so run a tiny local server:
+
+  1. Unzip the folder.
+  2. Open a terminal inside the unzipped "the-final-exam" folder.
+  3. Run ONE of these:
+       npx serve .                 (needs Node.js)
+       python -m http.server 8000  (needs Python)
+  4. Open the address it prints (e.g. http://localhost:8000) in Chrome/Edge.
+
+Controls
+  Click the game first, then press ENTER
+  Move: WASD   Attack: Mouse / J   Dash: Space   Skills: Q / E
